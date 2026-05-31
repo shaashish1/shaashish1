@@ -33,7 +33,7 @@
 
 ```yaml
 Name          : Ashish Sharma
-Title         : Director / Head of AI | AI Agent Architect
+Title         : Head of AI | AI Agent Architect
 Focus         : Enterprise GenAI · Life Sciences · Healthcare · SaaS
 Location      : Kharadi, Pune, Maharashtra, India
 Experience    : 22+ years across AI, Cloud, Data, Product & Digital Transformation
