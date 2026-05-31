@@ -4,10 +4,16 @@
 
 <div align="center">
 
-<!-- Typing SVG header - 3 lines with increased height=120 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=false&multiline=true&repeat=true&width=860&height=120&lines=Hi+%F0%9F%91%8B+I%27m+Ashish+Sharma+%E2%80%94+Director+%2F+Head+of+AI;22%2B+Years+%7C+Life+Sciences+%7C+Healthcare+%7C+Enterprise+SaaS;Building+24x7+Agentic+AI+Systems+that+Never+Sleep+%F0%9F%A4%96" alt="Typing SVG" />
+<!-- Header badges acting as animated title row -->
+<img src="https://img.shields.io/badge/-%F0%9F%91%8B%20Hi%2C%20I'm%20Ashish%20Sharma%20%E2%80%94%20Director%20%2F%20Head%20of%20AI-00D4FF?style=for-the-badge&labelColor=1a1a2e" />
 
-<br/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/22%2B%20Years-Life%20Sciences%20%7C%20Healthcare%20%7C%20SaaS-6E57F7?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Building-24x7%20Agentic%20AI%20Systems%20in%20Production-00D4FF?style=flat-square&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Stack-LangGraph%20%7C%20OpenAI%20%7C%20Anthropic%20%7C%20MCP-FF6B6B?style=flat-square&labelColor=1a1a2e" />
+
+<br/><br/>
 
 <!-- Profile Badges -->
 <p>
@@ -209,10 +215,15 @@ Superpower    : Shipping enterprise GenAI from pilot to production at scale
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaashish1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=2" />
+
+![MultipleCommit](https://img.shields.io/badge/Commits-1676%2B%20Contributions%20in%202026-6E57F7?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repositories-73%2B%20Public%20%26%20Private-00D4FF?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-10%2B%20Earned-F7B731?style=for-the-badge&logo=github&logoColor=white)
+![Experience](https://img.shields.io/badge/Experience-22%2B%20Years%20in%20Tech-brightgreen?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
 ---
