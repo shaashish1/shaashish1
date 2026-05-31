@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<!-- Animated typing header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I+am+Ashish+Sharma+%F0%9F%91%8B" alt="Hi, I am Ashish Sharma" />
+<!-- Animated typing header - self-hosted SVG via raw.githubusercontent -->
+<img src="https://raw.githubusercontent.com/shaashish1/shaashish1/main/header.svg" alt="Hi, I am Ashish Sharma" width="800" />
 
 <br/>
 
