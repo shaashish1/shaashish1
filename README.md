@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Header badges acting as animated title row -->
-<img src="https://img.shields.io/badge/-%F0%9F%91%8B%20Hi%2C%20I'm%20Ashish%20Sharma%20%E2%80%94%20Director%20%2F%20Head%20of%20AI-00D4FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/-%F0%9F%91%8B%20Hi%2C%20I'm%20Ashish%20Sharma%20%E2%80%94%200%2F%20Head%20of%20AI-00D4FF?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
