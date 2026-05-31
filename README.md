@@ -4,16 +4,10 @@
 
 <div align="center">
 
-<!-- Header badges acting as animated title row -->
-<img src="https://img.shields.io/badge/-%F0%9F%91%8B%20Hi%2C%20I'm%20Ashish%20Sharma%20%E2%80%94%200%2F%20Head%20of%20AI-00D4FF?style=for-the-badge&labelColor=1a1a2e" />
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I+am+Ashish+Sharma+%F0%9F%91%8B" alt="Hi, I am Ashish Sharma" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/22%2B%20Years-Life%20Sciences%20%7C%20Healthcare%20%7C%20SaaS-6E57F7?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Building-24x7%20Agentic%20AI%20Systems%20in%20Production-00D4FF?style=flat-square&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Stack-LangGraph%20%7C%20OpenAI%20%7C%20Anthropic%20%7C%20MCP-FF6B6B?style=flat-square&labelColor=1a1a2e" />
-
-<br/><br/>
+<br/>
 
 <!-- Profile Badges -->
 <p>
