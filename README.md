@@ -4,13 +4,8 @@
 
 <div align="center">
 
-<!-- Animated Wave Banner - using svg header that works on GitHub -->
-<img width="100%" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" style="display:none"/>
-
-<!-- Typing SVG - height increased to 120 to show all 3 lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hi+%F0%9F%91%8B+I'm+Ashish+Sharma;22%2B+Years+in+AI+%7C+Life+Sciences+%7C+Healthcare+%7C+SaaS;Building+24x7+Agentic+AI+Systems+in+Production" alt="Typing SVG" />
-</a>
+<!-- Typing SVG header - 3 lines with increased height=120 -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=false&multiline=true&repeat=true&width=860&height=120&lines=Hi+%F0%9F%91%8B+I%27m+Ashish+Sharma+%E2%80%94+Director+%2F+Head+of+AI;22%2B+Years+%7C+Life+Sciences+%7C+Healthcare+%7C+Enterprise+SaaS;Building+24x7+Agentic+AI+Systems+that+Never+Sleep+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br/>
 
@@ -205,8 +200,7 @@ Superpower    : Shipping enterprise GenAI from pilot to production at scale
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaashish1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaashish1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&hide=stars,issues&show=reviews,prs_merged" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaashish1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" />
 </div>
 
 <div align="center">
